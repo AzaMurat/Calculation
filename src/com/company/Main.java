@@ -35,6 +35,7 @@ public class Main {
             System.out.println("Математикалык опперация эмес");
             System.exit(0);
         }
+
         String num1 = "", num2 = "";
 
         for (int i = 0; i < operation.length(); i++) {
